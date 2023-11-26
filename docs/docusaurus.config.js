@@ -6,12 +6,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Quivr 🧠',
+  title: 'Microsaas 🧠',
   tagline: 'Your Generative AI second brain',
-  favicon: 'img/quivr-logo.ico',
+  favicon: 'img/microsaas-logo.ico',
 
   // Set the production url of your site here
-  url: 'https://brain.quivr.app',
+  url: 'https://brain.Microsaas.app',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -19,7 +19,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'stangirard', // Usually your GitHub org/user name.
-  projectName: 'quivr', // Usually your repo name.
+  projectName: 'Microsaas', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -64,9 +64,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/logo.png',
       navbar: {
-        title: 'Quivr',
+        title: 'Microsaas',
         logo: {
-          alt: 'Quivr logo',
+          alt: 'Microsaas logo',
           src: 'img/logo.png',
         },
         items: [

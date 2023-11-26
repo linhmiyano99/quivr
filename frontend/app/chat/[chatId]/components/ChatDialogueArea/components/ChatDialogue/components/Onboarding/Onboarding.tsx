@@ -53,7 +53,7 @@ export const Onboarding = (): JSX.Element => {
 
   return (
     <div className="flex flex-col gap-2 mb-3">
-      <MessageRow speaker={"assistant"} brainName={"Quivr"}>
+      <MessageRow speaker={"assistant"} brainName={"Microsaas"}>
         <div className={stepsContainerStyle}>
           <p>{titleStream}</p>
           <div>

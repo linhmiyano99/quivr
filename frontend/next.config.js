@@ -2,7 +2,7 @@
 const nextConfig = {
   images: {
     domains: [
-      "www.quivr.app",
+      "www.assistant_tool.app",
       "quivr-cms.s3.eu-west-3.amazonaws.com",
       "www.gravatar.com",
     ],
@@ -25,8 +25,8 @@ const ContentSecurityPolicy = {
     process.env.NEXT_PUBLIC_SUPABASE_URL,
     "https://api.june.so",
     {
-      prod: "https://www.quivr.app/",
-      preview: "https://preview.quivr.app/",
+      prod: "https://www.assistant_tool.app/",
+      preview: "https://preview.assistant_tool.app/",
       local: ["http://localhost:3000", "http://localhost:3001"],
     },
   ],
@@ -43,7 +43,7 @@ const ContentSecurityPolicy = {
   "media-src": [
     "'self'",
     "https://user-images.githubusercontent.com",
-    "https://www.quivr.app/",
+    "https://www.assistant_tool.app/",
     "https://quivr-cms.s3.eu-west-3.amazonaws.com",
   ],
   "script-src": [
@@ -51,8 +51,8 @@ const ContentSecurityPolicy = {
     "'unsafe-eval'",
     "https://va.vercel-scripts.com/",
     {
-      prod: "https://www.quivr.app/",
-      preview: "https://preview.quivr.app/",
+      prod: "https://www.assistant_tool.app/",
+      preview: "https://preview.assistant_tool.app/",
       local: ["http://localhost:3000", "http://localhost:3001"],
     },
     "https://www.google-analytics.com/",
@@ -61,8 +61,8 @@ const ContentSecurityPolicy = {
   "style-src": [
     "'unsafe-inline'",
     {
-      prod: "https://www.quivr.app/",
-      preview: "https://preview.quivr.app/",
+      prod: "https://www.assistant_tool.app/",
+      preview: "https://preview.assistant_tool.app/",
       local: ["http://localhost:3000", "http://localhost:3001"],
     },
   ],

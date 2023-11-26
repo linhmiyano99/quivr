@@ -36,13 +36,13 @@
   "add_content_card_button_tooltip": "Agregar conocimiento a un cerebro",
   "back_to_chat": "Volver al chat",
   "onboarding": {
-    "title": "¡Hola 👋🏻 ¿Quieres descubrir Quivr? 😇",
+    "title": "¡Hola 👋🏻 ¿Quieres descubrir Microsaas? 😇",
     "step_1_1": "1. Arrastra y suelta el archivo en el chat o en el 📎.",
-    "step_1_2": "¿No tienes un archivo? Descarga 'Documentación de Quivr'",
+    "step_1_2": "¿No tienes un archivo? Descarga 'Documentación de Microsaas'",
     "step_2": "2. Comienza a chatear con tu archivo",
     "step_3": "3. ¡Disfruta!",
-    "how_to_use_quivr": "¿Cómo usar Quivr?",
-    "what_is_quivr": "¿Qué es Quivr?",
+    "how_to_use_Microsaas": "¿Cómo usar Microsaas?",
+    "what_is_Microsaas": "¿Qué es Microsaas?",
     "what_is_brain": "¿Qué es un cerebro?"
   }
 }

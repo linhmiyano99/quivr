@@ -6,8 +6,8 @@ export const OnboardingQuestions = (): JSX.Element => {
   const { t } = useTranslation(["chat"]);
 
   const onboardingQuestions = [
-    t("onboarding.how_to_use_quivr"),
-    t("onboarding.what_is_quivr"),
+    t("onboarding.how_to_use_Microsaas"),
+    t("onboarding.what_is_Microsaas"),
     t("onboarding.what_is_brain"),
   ];
 

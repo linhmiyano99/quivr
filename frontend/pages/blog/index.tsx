@@ -45,8 +45,8 @@ const Blog = ({ result }: InferGetStaticPropsType<typeof getStaticProps>) => {
   return (
     <main className="bg-white min-h-screen p-8 text-gray-900">
       <Head>
-        <title>Quivr - Blog</title>
-        <meta name="description" content="Quivr.app - Your Generative AI second brain builder's blog" />
+        <title>Microsaas - Blog</title>
+        <meta name="description" content="Microsaas.app - Your Generative AI second brain builder's blog" />
       </Head>
       <div className="mx-auto container">
         <h1 className="text-6xl font-extrabold mb-16 text-center tracking-tight text-black">Blog Posts</h1>
